@@ -1,3 +1,5 @@
+// Colin Lee comments - Colin has learned how to use GitKraken comfortably and understands the concept of lambdas.
+
 public class project
 {
     interface PerfectSquare
